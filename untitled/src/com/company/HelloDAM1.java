@@ -7,5 +7,6 @@ public class HelloDAM1 {
         Scanner s = new Scanner(System.in);
         System.out.println("Jordi Rubió");
         System.out.println("Commit 2 Jordi");
+        System.out.println("Commit 3 Jordi");
     }
 }
